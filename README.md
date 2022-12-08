@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshaykamath_45" target="blank"><img src="https://img.shields.io/twitter/follow/akshaykamath_45?logo=twitter&style=for-the-badge" alt="akshaykamath_45" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development(Using React) and App Development(Using Flutter)**
+- 🌱 I’m currently learning **Web Development and App Development(Using Flutter)**
 
 - 👨‍💻 All of my projects are available at [https://akshaykamath.netlify.app/](https://akshaykamath.netlify.app/)
 
