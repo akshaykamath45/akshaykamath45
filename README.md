@@ -38,13 +38,15 @@
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykamath45&show_icons=true&locale=en&layout=compact" alt="akshaykamath45" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&" alt="akshaykamath45" /></p> 
+![](https://github-readme-stats.vercel.app/api?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&locale=en" alt="akshaykamath45" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&" alt="akshaykamath45" /></p> -->
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&locale=en" alt="akshaykamath45" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
