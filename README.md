@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshay Kamath</h1>
-<h3 align="center">A Passionate Student,Exploring Different Domains in Tech.</h3>
+<h3 align="center">A Passionate Student,Exploring Different Domains in Tech</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykamath45&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykamath45" /> </p>
 <p align="left""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45"  alt="akshaykamath45" /></a> </p>  -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshaykamath45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akshaykamath45&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 
 
