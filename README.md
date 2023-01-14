@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Akshay Kamath</h1>
-<h3 align="center">A Passionate Student,Exploring Different Domains in Tech</h3>
+<!-- <h1 align="center">Hi 👋, I'm Akshay Kamath</h1>
+<h3 >A Passionate Student,Exploring Different Domains in Tech</h3> -->
+
+<!--  <p align="center">
+  <a href="https://akshaykamath.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/73344382/212498008-3115881f-4bd2-4e35-baa4-6c35b1d1bfca.png" alt="my banner"></a>
+</p> -->
+ 
+</br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&background=952FFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshay+Kamath;A+Passionate+Student;Exploring++Different+Domains+in+Tech)](https://git.io/typing-svg)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykamath45&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykamath45" /> </p>
 <p align="left""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45"  alt="akshaykamath45" /></a> </p>  -->
@@ -9,19 +17,26 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/akshaykamath_45" target="blank"><img src="https://img.shields.io/twitter/follow/akshaykamath_45?logo=twitter&style=for-the-badge" alt="akshaykamath_45" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/akshaykamath_45" target="blank"><img src="https://img.shields.io/twitter/follow/akshaykamath_45?logo=twitter&style=for-the-badge" alt="akshaykamath_45" /></a> </p> -->
 
-- 🌱 I’m currently learning **Web Development and App Development(Using Flutter)**
-
+- 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently learning **Backend Development - Node and App Development(Using Flutter)**
+- 👯 I’m looking to collaborate on **Open Source , Flutter , and Web Development Projects** 
+- 📫 How to reach me **akshaykamath193@gmail.com**
 - 👨‍💻 All of my projects are available [here](https://akshaykamath.netlify.app/)
 
-- 📫 How to reach me **akshaykamath193@gmail.com**
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=akshaykamath45&label=Profile%20views&color=0e75b6&style=flat"
+    alt="akshaykamath45" /> 
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshaykamath_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshaykamath_45" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshaykamath45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaykamath45" height="30" width="40" /></a>
-<a href="https://codesandbox.com/akshaykamath45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akshaykamath45" height="30" width="40" /></a>
+<!-- <a href="https://codesandbox.com/akshaykamath45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akshaykamath45" height="30" width="40" /></a> -->
 <a href="https://instagram.com/akshaykamath45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshaykamath45" height="30" width="40" /></a>
 <a href="https://hashnode.com/@akshaykamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@akshaykamath" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/akshaykamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshaykamath" height="30" width="40" /></a>
@@ -43,14 +58,46 @@
 
 
 
+<h1 align="center"> 📊 GitHub Stats:</h1>
 
-# 📊 GitHub Stats:
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshaykamath45&show_icons=true&locale=en" alt="akshaykamath45" /></p>-->
-
+<!-- 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&theme=radical)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<p align="center">
+  <a href="https://github.com/akshaykamath45/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/akshaykamath45/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykamath45&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
+  </a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45&column=6&theme=onedark" align="center"/>
+</div>
 
-### ✍️ Random Dev Quote
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+ <a href="https://git.io/streak-stats" align="middle">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=akshaykamath45&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+<!--   <a href="https://github.com/akshaykamath45/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=akshaykamath45&theme=react-dark&hide_border=true">
+  </a> -->
+</p>
+
+<h1 align="center">✍️ Random Dev Quote </h1>
+<p align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+ </p>
+
+The snake's eating up my contributions🐍.
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+<br>
