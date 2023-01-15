@@ -92,8 +92,16 @@
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=dark&hide_border=false">
+    <img src="https://streak-stats.demolab.com?user=akshaykamath45&theme=android-dark&border_radius=5.9&date_format=j%20M%5B%20Y%5D">
   </a>
+  
+  <!--
+  <a href="https://git.io/streak-stats" align="middle">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=dark&hide_border=false">
+  </a>-->
+  
+ 
+  
 <!--      <img src="http://github-readme-streak-stats.herokuapp.com?user=akshaykamath45&theme=react&background=0d1117&border=666"> -->
 <!--   ![](https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=dark&hide_border=false)<br/> -->
   <br>
