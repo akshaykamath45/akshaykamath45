@@ -60,13 +60,25 @@
 
 <h1 align="center"> 📊 GitHub Stats:</h1>
 
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshaykamath45&show_icons=true&locale=en" alt="akshaykamath45" /></p>-->
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshaykamath45&show_icons=true&locale=en" alt="akshaykamath45" /></p> -->
+
 <!-- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <p align="center">
+  <a href="https://github.com/akshaykamath45/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&theme=radical" height="165">
+  </a>
+  <a href="https://github.com/akshaykamath45/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="165">
+  </a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45&column=6&theme=onedark" align="center"/>
+</div>
+
+ 
+ <!-- <p align="center">
   <a href="https://github.com/akshaykamath45/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
   </a>
@@ -76,12 +88,14 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45&column=6&theme=onedark" align="center"/>
 </div>
-
+ -->
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=akshaykamath45&theme=react&background=0d1117&border=666">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=dark&hide_border=false">
   </a>
+<!--      <img src="http://github-readme-streak-stats.herokuapp.com?user=akshaykamath45&theme=react&background=0d1117&border=666"> -->
+<!--   ![](https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=dark&hide_border=false)<br/> -->
   <br>
 <!--   <a href="https://github.com/akshaykamath45/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=akshaykamath45&theme=react-dark&hide_border=true">
