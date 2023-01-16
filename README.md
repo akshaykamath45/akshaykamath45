@@ -68,7 +68,7 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <p align="center">
   <a href="https://github.com/akshaykamath45/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&theme=radical" height="165">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshaykamath45&show_icons=true&locale=en" alt="akshaykamath45" height="165">
   </a>
   <a href="https://github.com/akshaykamath45/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="165">
@@ -81,7 +81,11 @@
  <!-- <p align="center">
   <a href="https://github.com/akshaykamath45/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
+<a href="https://github.com/akshaykamath45/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&theme=radical" height="165">
   </a>
+  
+  
   <a href="https://github.com/akshaykamath45/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykamath45&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
   </a>
@@ -119,13 +123,17 @@
 <h1 align="center">✍️ Random Dev Quote </h1>
 <p align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center"/>
+</div>
   
  </p>
 
 <!-- The snake's eating up my contributions🐍.
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+    alt="example" align="center" />
+    
 </p>
 <br> -->
