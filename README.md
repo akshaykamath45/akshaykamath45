@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning **Backend Development - Node and App Development(Using Flutter)**
 - 👯 I’m looking to collaborate on **Open Source , Flutter , and Web Development Projects** 
 - 📫 How to reach me **akshaykamath193@gmail.com**
-- 👨‍💻 All of my projects are available [here](https://akshaykamath.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://akshaykamath.netlify.app/projects.html)
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=akshaykamath45&label=Profile%20views&color=0e75b6&style=flat"
     alt="akshaykamath45" /> 
