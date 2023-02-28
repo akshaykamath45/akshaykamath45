@@ -26,10 +26,10 @@
 - 📫 How to reach me **akshaykamath193@gmail.com**
 - 👨‍💻 All of my projects are available [here](https://akshaykamath.netlify.app/projects.html)
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=akshaykamath45&label=Profile%20views&color=0e75b6&style=flat"
+<!-- <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=akshaykamath45&label=Profile%20views&color=0e75b6&style=flat"
     alt="akshaykamath45" /> 
 
-
+ -->
 
 
 <h3 align="left">🤝 Connect with me:</h3>
