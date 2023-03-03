@@ -6,8 +6,17 @@
 </p> -->
  
 </br>
+  
+<div align="center">
+  
+![Header](./akshay-header.png)
+  
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&background=952FFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshay+Kamath;A+Passionate+Student;Exploring++Different+Domains+in+Tech)](https://git.io/typing-svg)
+
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykamath45&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykamath45" /> </p>
 <p align="left""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45"  alt="akshaykamath45" /></a> </p>  -->
@@ -66,15 +75,28 @@
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=akshaykamath45&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/akshaykamath45/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshaykamath45&show_icons=true&locale=en" alt="akshaykamath45" height="165">
   </a>
   <a href="https://github.com/akshaykamath45/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshaykamath45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="165">
-  </a>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45&column=6&theme=onedark" align="center"/>
+  </a> -->
+<!--   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykamath45)](https://github.com/anuraghazra/github-readme-stats) -->
+ <div align="center">
+   
+![akshaykamath45's Stats](https://github-readme-stats.vercel.app/api?username=akshaykamath45&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+  
+<!-- ![akshaykamath45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=algolia&hide_border=true) -->
+  
+![akshaykamath45's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykamath45&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+  
+
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45&column=6&theme=onedark" align="center"/> -->
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
  
@@ -99,6 +121,8 @@
     <img src="https://streak-stats.demolab.com?user=akshaykamath45&theme=android-dark&border_radius=5.9&date_format=j%20M%5B%20Y%5D">
   </a>
   
+  
+  
   <!--
   <a href="https://git.io/streak-stats" align="middle">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=dark&hide_border=false">
@@ -112,7 +136,7 @@
 <!--   <a href="https://github.com/akshaykamath45/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=akshaykamath45&theme=react-dark&hide_border=true">
   </a> -->
-  The snake's eating up my contributions🐍.
+  The snake's are eating up my contributions🐍.
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
