@@ -28,7 +28,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/akshaykamath_45" target="blank"><img src="https://img.shields.io/twitter/follow/akshaykamath_45?logo=twitter&style=for-the-badge" alt="akshaykamath_45" /></a> </p> -->
 
-- 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
+- 🎓 **Second Year Computer Engineering Student at Dwarkadas J. Sanghvi College of Engineering**.
 - 🔭 I’m currently working on **Full Stack Web Development**
 - 🌱 I’m currently learning **Backend Development - Node and App Development(Using Flutter)**
 - 👯 I’m looking to collaborate on **Open Source , Flutter , and Web Development Projects** 
@@ -95,7 +95,7 @@
   
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45&column=6&theme=onedark" align="center"/> -->
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=akshaykamath45)](https://github.com/akshaykamath45/github-profile-trophy)
   
   </div>
 
