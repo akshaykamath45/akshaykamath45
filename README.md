@@ -122,6 +122,7 @@
     <img src="https://streak-stats.demolab.com?user=akshaykamath45&theme=android-dark&border_radius=5.9&date_format=j%20M%5B%20Y%5D">
   </a>
   
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akshaykamath45&bg_color=000000&color=fd86f5&line=d12ec6&point=d7b2b2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
   <!--
