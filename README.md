@@ -90,12 +90,17 @@
 ![akshaykamath45's Stats](https://github-readme-stats.vercel.app/api?username=akshaykamath45&theme=algolia&show_icons=true&hide_border=true&count_private=true)
   
 <!-- ![akshaykamath45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=algolia&hide_border=true) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykamath45&theme=algolia&count_private=true&show_icons=true&hide_progress=false)
   
+<!--
 ![akshaykamath45's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykamath45&theme=algolia&show_icons=true&hide_border=true&layout=compact)
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykamath45&layout=compact)] -->
+
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45&column=6&theme=onedark" align="center"/> -->
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=akshaykamath45)](https://github.com/akshaykamath45/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=akshaykamath45&theme=algolia&count_private=true&show_icons=true&hide_progress=false)](https://github.com/akshaykamath45/github-profile-trophy)
   
   </div>
 
@@ -114,16 +119,18 @@
   </a>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akshaykamath45&column=6&theme=onedark" align="center"/>
+      <img src="https://streak-stats.demolab.com?user=akshaykamath45&border_radius=5.9&date_format=j%20M%5B%20Y%5D&theme=algolia&count_private=true&show_icons=true&hide_progress=false">
 </div>
  -->
 <h1 align="center">  Contributions ✨</h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
     <img src="https://streak-stats.demolab.com?user=akshaykamath45&theme=android-dark&border_radius=5.9&date_format=j%20M%5B%20Y%5D">
+
   </a>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akshaykamath45&bg_color=000000&color=fd86f5&line=d12ec6&point=d7b2b2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akshaykamath45&bg_color=050f2c&color=f7f3f3&line=3892e5&point=3728af&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <!--
   <a href="https://git.io/streak-stats" align="middle">
