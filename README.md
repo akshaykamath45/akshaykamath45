@@ -88,6 +88,7 @@
    
   
 ![akshaykamath45's Stats](https://github-readme-stats.vercel.app/api?username=akshaykamath45&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+
   
 <!-- ![akshaykamath45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=algolia&hide_border=true) -->
 
@@ -124,15 +125,19 @@
  -->
 <h1 align="center">  Contributions ✨</h1>
 <p align="center">
- <a href="https://git.io/streak-stats" align="middle">
-    <img src="https://streak-stats.demolab.com?user=akshaykamath45&theme=android-dark&border_radius=5.9&date_format=j%20M%5B%20Y%5D">
 
-  </a>
-  
+  <a href="https://git.io/streak-stats" align="middle">
+    <img src="https://streak-stats.demolab.com?user=akshaykamath45&theme=blue-green&mode=weekly&exclude_days=Wed">
+  </a> 
+
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akshaykamath45&bg_color=050f2c&color=f7f3f3&line=3892e5&point=3728af&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
   <!--
+  
+  
+    <img src="https://streak-stats.demolab.com?user=akshaykamath45&theme=android-dark&border_radius=5.9&date_format=j%20M%5B%20Y%5D">
   <a href="https://git.io/streak-stats" align="middle">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykamath45&theme=dark&hide_border=false">
   </a>-->
